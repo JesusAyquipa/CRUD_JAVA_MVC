@@ -35,4 +35,5 @@ VALUES
 ('Empleado'),
 ('Secretario');
 
+SELECT FROM Persona
 
